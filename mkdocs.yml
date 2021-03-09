@@ -2,8 +2,8 @@ site_name: Test docs
 site_description: 'A docs test'
 site_author: 'Juuso Autiosalo'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'juusoautiosalo/mkdocs-test'
+repo_url: 'https://github.com/juusoautiosalo/mkdocs-test'
 nav:
     - Home: index.md
     - About: about.md
