@@ -1,4 +1,4 @@
-## Sample
+## About
 
 One more, finally. Or not? :)
 
